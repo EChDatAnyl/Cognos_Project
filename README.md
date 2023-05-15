@@ -1,2 +1,2 @@
 # Cognos_Project
-Cognos Project
+Here are the projects I did from the open source Kaggle worksets.
